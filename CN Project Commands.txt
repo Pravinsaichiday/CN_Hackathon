@@ -1,0 +1,6 @@
+CN Project
+
+ip a
+sudo nload
+sudo tcpdump -i eth0
+ping google.com
